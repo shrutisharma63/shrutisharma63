@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karun Jangid</h1>
-<h3 align="center">A passionate Developer</h3>
+<h1 align="center">Shruti Sharma</h1>
+<h3 align="center">Front-end Developer</h3>
 
 # 💫 About Me:
 💻 I'm currently working on **MERN projects**<be></br>
