@@ -1,8 +1,8 @@
-<h1 align="center">Shruti Sharma</h1>
+<h1 align="center">hi,👋 I'm Shruti Sharma</h1>
 <h3 align="center">Front-end Developer</h3>
 
 # 💫 About Me:
-💻 I'm currently working on **MERN projects**<be></br>
+👩‍🦰 I'm currently working on **MERN projects**<be></br>
 🌱 I'm currently learning modern **JS frameworks**<be></br>
 ⚡ Fun fact I love traveling!
 
@@ -10,7 +10,7 @@
 ## 🌐 Connect with me :
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavisingodiya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/karun-kumar-jangid-628789280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavisingodiya" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shruti-sharma-497412262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavisingodiya" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavisingodiya" height="30" width="40" /></a>
 </p>
 
