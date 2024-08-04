@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with me :
 <p align="left">
-<a href="https://github.com/shrutisharma63/shrutisharma63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShrutiSharma" height="30" width="40" /></a>
+<a href="https://x.com/home?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShrutiSharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shruti-sharma-497412262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShrutiSharma" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ss__shrutisharma_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SHrutiSHarma" height="30" width="40" /></a>
 </p>
